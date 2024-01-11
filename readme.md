@@ -8,9 +8,9 @@ DECLARE -- All the Variable and methode should be define here it is OPTIONAL.
    <declarations section> 
 BEGIN -- Start Point
    <executable command(s)>
-EXCEPTION  -- End Point
+EXCEPTION
    <exception handling> 
-END;
+END;  -- End Point
 ```
 ## Exmaple :-
 
@@ -33,33 +33,38 @@ PL/SQL procedure successfully completed.
 # Data Types
 ![Alt text](image.png)
 
-# Variables <sub>Declaration and Assigning</sub>
+# Variables <sub>Declaration and value Assigning</sub>
 ```sql
-declare
-
+DECLARE
  -- Variable Initialization 
+   varInt number:=500;
+   decNum number(10,2):=100.566666666;
+ /*              ↓  ↓
+            Length  Decimal Points
+*/
+   myName varchar(100):='Suryansh';
+   myDate date:=sysdate;
 
-  a integer;
-  b integer;
-  c integer;
+   -- Constants
+   g CONSTANT number(10,2):=9.80665; 
 
- -- Assigning value to variables
-
- myname varchar(100):='Suryansh';
- varint number:=500;
- mydate date:=sysdate;
 begin
-  dbms_output.put_line(myname);
-  dbms_output.put_line(varint+15);
-  dbms_output.put_line(mydate);
+  dbms_output.put_line(varInt);
+  dbms_output.put_line(myName);
+  dbms_output.put_line(myDate );
+  dbms_output.put_line(decNum);
+  dbms_output.put_line(g);
+  
+  
 end;
 /
 
 OUTPUT: 
 
+    500
     Suryansh
-    515
-    01/07/2024
+    01/11/2024
+    9.81
     
 Statement processed.
 
@@ -69,3 +74,13 @@ Statement processed.
 # Delimaters : ```important```
 
  ![Alt text](image-1.png)
+ 
+> # Comparison Operators<sub> Advanced</sub>
+>>* [IN ](https://www.techonthenet.com/oracle/in.php)
+>>* [NOT](https://www.techonthenet.com/oracle/not.php)
+>>* [BETWEEN](https://www.techonthenet.com/oracle/not.php)
+>>* [IS NULL](https://www.techonthenet.com/oracle/isnull.php)
+>>* [IS NOT NULL](https://www.techonthenet.com/oracle/isnotnull.php)
+>>* [LIKE](https://www.techonthenet.com/oracle/like.php)
+>>* [REGEXP_LIKE](https://www.techonthenet.com/oracle/regexp_like.php)
+>>* [EXISTS](https://www.techonthenet.com/oracle/exists.php)
