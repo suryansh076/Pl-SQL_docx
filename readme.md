@@ -30,7 +30,7 @@ h2{
 
  ![Alt text](image-1.png)
  
-> # Comparison Operators<sub> Advanced</sub>
+ # Comparison Operators<sub> Advanced</sub>
 >>* [IN ](https://www.techonthenet.com/oracle/in.php)
 >>* [NOT](https://www.techonthenet.com/oracle/not.php)
 >>* [BETWEEN](https://www.techonthenet.com/oracle/not.php)
