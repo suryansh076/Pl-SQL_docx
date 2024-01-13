@@ -1,6 +1,4 @@
-<style>
-  /* Add your custom styles here */
-  /* For example: */
+<!-- <style>
   #table-of-contents {
     background-color: gray;
     padding: 10px;
@@ -21,7 +19,7 @@ h2{
     text-decoration:none;
     color:white;
   }
-</style>
+</style> -->
 
 # Table of Contents
 
