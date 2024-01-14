@@ -1,6 +1,7 @@
 # Data Types
 ![Alt text](image.png)
 
+
 ## Variables <sub>Declaration and value Assigning</sub>
 ```sql
 DECLARE
@@ -26,8 +27,9 @@ begin
   
 end;
 /
-
-OUTPUT: 
+```
+```sql
+--OUTPUT: 
 
     500
     Suryansh
