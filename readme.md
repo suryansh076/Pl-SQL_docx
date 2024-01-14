@@ -23,7 +23,9 @@ h2{
 
 # Table of Contents
 
-## [Data Type and Variables]()
+> ## Basics [[__Go__]]()
+> ## Data Type and Variables[[__Go__]]()
+> 
 # Delimaters : ```important```
 
  ![Alt text](image-1.png)
