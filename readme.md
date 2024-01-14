@@ -23,8 +23,8 @@ h2{
 
 # Table of Contents
 
-> ## Basics [[__Go__]]()
-> ## Data Type and Variables[[__Go__]]()
+> ## 1 Basics [[__Go__]]()
+> ## 2 Data Type and Variables[[__Go__]]()
 > 
 # Delimaters : ```important```
 
