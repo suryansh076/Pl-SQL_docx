@@ -23,7 +23,7 @@ h2{
 
 > # Table of Contents
 >> ## 1: Basics [[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Basic/bacis.md)
->>## 2: Operatoes & Delimaters [[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Basic/bacis.md)
+>>## 2: Operators & Delimaters [[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Basic/bacis.md)
 >>## 3: Conditional Statements [[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Conditinals/conditionals.md)
 >>## 4: Loops [[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Loops/loops.md)
 >>## 5: Strings & It's Functions[[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Strings/strings.md)
