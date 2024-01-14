@@ -21,11 +21,14 @@ h2{
   }
 </style> -->
 
-# Table of Contents
+> # Table of Contents
+>> ## 1 Basics [[__Go__]]()
+>>## 2 Data Type and Variables[[__Go__]]()
+>>## 2 Data Type and Variables[[__Go__]]()
+>>## 2 Data Type and Variables[[__Go__]]()
+>>## 2 Data Type and Variables[[__Go__]]()
+>>## 2 Data Type and Variables[[__Go__]]()
 
-> ## 1 Basics [[__Go__]]()
-> ## 2 Data Type and Variables[[__Go__]]()
-> 
 # Delimaters : ```important```
 
  ![Alt text](image-1.png)
