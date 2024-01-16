@@ -12,7 +12,7 @@ EXCEPTION
    <exception handling> 
 END;  -- End Point
 ```
-## Exmaple :-
+## Example :-
 
 ```sql
 DECLARE 
