@@ -28,6 +28,7 @@ h2{
 >>## 4: Loops [[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Loops/loops.md)
 >>## 5: Strings & It's Functions[[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Strings/strings.md)
 >>## 6: Arrays[[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Arrays/array.md)
+>>## 7: Procedures[[__Go__]](https://github.com/suryansh076/Pl-SQL_docx/blob/main/Procedures/procedures.md)
 
 
 
